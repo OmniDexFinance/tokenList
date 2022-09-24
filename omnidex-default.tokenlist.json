@@ -8,7 +8,7 @@
     },
     "tags": {},
     "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/",
-    "keywords": ["pancake", "default"],
+    "keywords": ["omnidex", "default"],
     "tokens": [{
             "name": "OmniDex Token",
             "symbol": "Charm",
